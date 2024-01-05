@@ -33,6 +33,8 @@ All tests in model and controller has a classes' coverage at 100%.
 | Model   | 1103/1211 (91%) |
 | Server  | 1592/1802 (91%) |
 
+![alt text](./UML.png)
+
 
 ## Run configuration
 
